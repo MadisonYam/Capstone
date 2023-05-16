@@ -59,7 +59,7 @@ Authors:
 
 	Ben Tidwell: tidwelb@email.sc.edu https://github.com/TidwelB
 
-	Madison Yam: yamm@email.sc.edu https://github.com/MadisonYam
+	Madison Yam: madisonyam@gmail.com https://github.com/MadisonYam
 
 	Reid Mozley: wmozley@email.sc.edu https://github.com/Reidmozley11
 
